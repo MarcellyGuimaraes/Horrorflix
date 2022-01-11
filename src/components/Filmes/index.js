@@ -23,7 +23,7 @@ function Filmes() {
       <Carrosel>
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=ndsKKudvygk"
+            href="https://www.netflix.com/br/title/80206910"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -33,7 +33,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=ZoVM-Ol_7O4"
+            href="https://www.netflix.com/br/title/81325689"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -47,7 +47,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=wlXAkTjQEi4"
+            href="https://www.telecine.com.br/filme/Invoca%C3%A7%C3%A3o_do_Mal_24266?action=play_filme"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -61,7 +61,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=5tJcmjG0VFA"
+            href="https://www.amazon.com/Beware-Slenderman-Irene-Taylor-Brodsky/dp/B01MTAXIH3"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -75,7 +75,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=zgPiiaLQD5Y"
+            href="https://www.netflix.com/br/title/80111413"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -89,7 +89,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=o28wfpyrkoM"
+            href="https://tv.apple.com/br/movie/o-culto-de-chucky/umc.cmc.3zaflnly05sq41xd02izuuvc0"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -103,7 +103,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=iw07xY0dLxg"
+            href="https://tv.apple.com/br/movie/sexta-feira-13-capitulo-final---parte-4/umc.cmc.752xl9w4xw2cqpxnrdeq0zwek"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -117,7 +117,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=9eZgEKjYJqA"
+            href="https://www.adorocinema.com/filmes/filme-1081/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -131,7 +131,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=ek1ePFp-nBI"
+            href="netflix.com/fr-en/title/80993029"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -141,7 +141,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=Zs0hLEHAoSs"
+            href="https://www.adorocinema.com/filmes/filme-208633/"
             target="_blank"
             rel="noopener noreferrer"
           >

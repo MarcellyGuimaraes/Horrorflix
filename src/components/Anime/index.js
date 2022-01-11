@@ -23,7 +23,7 @@ function Animes() {
       <Carrosel>
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=6MRxT8kz30k"
+            href="https://animesonline.cc/anime/shingeki-no-kyojin/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -37,7 +37,7 @@ function Animes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=LM1VWi1-br8"
+            href="https://animesonline.cc/anime/death-note/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -47,7 +47,7 @@ function Animes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=fvSKmPdD2a4"
+            href="https://animesonline.cc/anime/jojo-no-kimyou-na-bouken-stardust-crusaders-1993/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -61,7 +61,7 @@ function Animes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=ETHpMMV8rJU"
+            href="https://animesonline.cc/anime/tokyo-ghoul/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -71,7 +71,7 @@ function Animes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=ApLudqucq-s"
+            href="https://animesonline.cc/anime/yakusoku-no-neverland/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -85,7 +85,7 @@ function Animes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=JshPV43nur4"
+            href="https://animesonline.cc/anime/kiseijuu-sei-no-kakuritsu/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -99,7 +99,7 @@ function Animes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=P6IJ4VLLUj4"
+            href="https://animesonline.cc/anime/blood-c/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -109,7 +109,7 @@ function Animes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=weMxaz2KqHk"
+            href="https://animesonehd.xyz/35094/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -123,7 +123,7 @@ function Animes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=VQGCKyvzIM4"
+            href="https://animesonline.cc/anime/kimetsu-no-yaiba/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -133,7 +133,7 @@ function Animes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=Zo5wuctIMWk"
+            href="https://www.crunchyroll.com/pt-br/hell-girl-fourth-twilight"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -16,7 +16,7 @@ function FilmePrincipal() {
 
           <div className={styles.botoes}>
             <a
-              href="https://www.youtube.com/watch?v=mnd7sFt5c3A"
+              href="https://www.netflix.com/br/title/80057281"
               target="_blank"
               rel="noopener noreferrer"
             >

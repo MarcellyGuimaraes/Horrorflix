@@ -23,7 +23,7 @@ function Filmes() {
       <Carrosel>
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=9s5t6R3aWwY"
+            href="https://shopee.com.br/silent-hill-3-para-ps2-i.296447539.10646042761"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -33,12 +33,12 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=W1OUs3HwIuos"
+            href="https://store.steampowered.com/agecheck/app/418370/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <img
-              alt="Resident Evil 7: Biohazard "
+              alt="Resident Evil 7: Biohazard"
               src={Resident}
               className={styles.boxFilme}
             />
@@ -47,7 +47,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=NOVXqlx8aHk"
+            href="https://store.playstation.com/pt-br/product/UP9000-CUSA00359_00-UNTILDAWN0000001"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -57,7 +57,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=u1nY_5-UrY4"
+            href="https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -71,7 +71,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=4rsXOjQshJs"
+            href="https://play.google.com/store/apps/details?id=com.dvloper.granny&hl=pt_BR&gl=US"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -81,7 +81,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=sRa9oeo5KiY"
+            href="https://store.steampowered.com/agecheck/app/739630/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -95,7 +95,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=uKA-IA4locM"
+            href="https://store.steampowered.com/app/238320/Outlast/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -105,7 +105,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=JGhIXLO3ul8"
+            href="https://store.steampowered.com/agecheck/app/381210/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -119,7 +119,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=kE7li_u1nmg"
+            href="https://store.playstation.com/pt-br/concept/228638"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -129,7 +129,7 @@ function Filmes() {
 
         <div className="item">
           <a
-            href="https://www.youtube.com/watch?v=j-GmGxjPnP4"
+            href="https://store.steampowered.com/app/412020/Metro_Exodus/"
             target="_blank"
             rel="noopener noreferrer"
           >
