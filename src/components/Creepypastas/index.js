@@ -28,7 +28,7 @@ function Creepypastas() {
             rel="noopener noreferrer"
           >
             <img alt="Jeff the Killer" src={Jeff} className={styles.boxFilme} />
-            História do Jeff the Killer
+            <p className={styles.p}>História do Jeff the Killer</p>
           </a>
         </div>
 
@@ -43,7 +43,7 @@ function Creepypastas() {
               src={Slenderman}
               className={styles.boxFilme}
             />
-            História do Slenderman
+            <p className={styles.p}>História do Slenderman</p>
           </a>
         </div>
 
@@ -54,7 +54,7 @@ function Creepypastas() {
             rel="noopener noreferrer"
           >
             <img alt="Ticci Toby" src={Ticci} className={styles.boxFilme} />
-            História do Ticci Toby
+            <p className={styles.p}>História do Ticci Tobi</p>
           </a>
         </div>
 
@@ -65,7 +65,7 @@ function Creepypastas() {
             rel="noopener noreferrer"
           >
             <img alt="Ben Drowned" src={Ben} className={styles.boxFilme} />
-            História do Ben Drowned
+            <p className={styles.p}>História do Ben Drowned</p>
           </a>
         </div>
 
@@ -76,7 +76,7 @@ function Creepypastas() {
             rel="noopener noreferrer"
           >
             <img alt="Eyeless Jack" src={Eyeless} className={styles.boxFilme} />
-            História do Eyeless Jack
+            <p className={styles.p}>História do Eyeless Jack</p>
           </a>
         </div>
 
@@ -87,7 +87,7 @@ function Creepypastas() {
             rel="noopener noreferrer"
           >
             <img alt="Sally a Suja" src={Sally} className={styles.boxFilme} />
-            História da Sally a Suja
+            <p className={styles.p}>História do Sally, A Suja</p>
           </a>
         </div>
 
@@ -98,7 +98,7 @@ function Creepypastas() {
             rel="noopener noreferrer"
           >
             <img alt="Jack Risonho" src={Jack} className={styles.boxFilme} />
-            História do Jack Risonho
+            <p className={styles.p}>História do Jack Risonho</p>
           </a>
         </div>
 
@@ -109,7 +109,7 @@ function Creepypastas() {
             rel="noopener noreferrer"
           >
             <img alt="Siren Head" src={Siren} className={styles.boxFilme} />
-            História do Siren Head
+            <p className={styles.p}>História do Siren Head</p>
           </a>
         </div>
 
@@ -120,7 +120,7 @@ function Creepypastas() {
             rel="noopener noreferrer"
           >
             <img alt="Jane the Killer" src={Jane} className={styles.boxFilme} />
-            História da Jane the Killer
+            <p className={styles.p}>História do Jane The Killer</p>
           </a>
         </div>
 
@@ -131,7 +131,7 @@ function Creepypastas() {
             rel="noopener noreferrer"
           >
             <img alt="Jill Risonha" src={Jill} className={styles.boxFilme} />
-            História Jill Risonha
+            <p className={styles.p}>História do Jill Risonha</p>
           </a>
         </div>
       </Carrosel>
