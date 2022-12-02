@@ -22,6 +22,18 @@ import AHS from './img/Series/mini-8.jpg'
 import Dark from './img/Series/mini-9.jpg'
 import Supernatural from './img/Series/mini-10.jpg'
 
+// ANIMES
+import Titan from './img/mini-1.jpg'
+import Death from './img/mini-2.jpg'
+import Jojo from './img/mini-3.jpg'
+import Ghoul from './img/mini-4.jpg'
+import Emma from './img/mini-5.jpg'
+import Parasite from './img/mini-6.jpg'
+import BloodC from './img/mini-7.jpg'
+import Corpse from './img/mini-8.jpg'
+import Tanjiro from './img/mini-9.jpg'
+import Hell from './img/mini-10.jpg'
+
 export const filmes = [
   {
     id: 1,
@@ -92,10 +104,32 @@ export const filmes = [
 ]
 
 export const series = [
-  { id: 1, image: Slasher, alt: 'Slasher', link: '' },
-  { id: 2, image: ZNation, alt: 'Z Nation', link: '' },
-  { id: 3, image: Lore, alt: 'Lore', link: '' },
-  { id: 4, image: TWD, alt: 'Fear The Walking Dead', link: '' },
+  {
+    id: 1,
+    image: Slasher,
+    alt: 'Slasher',
+    link: 'https://www.netflix.com/br/title/80105452',
+  },
+  {
+    id: 2,
+    image: ZNation,
+    alt: 'Z Nation',
+    link: 'https://www.netflix.com/pt/title/80008434',
+  },
+  {
+    id: 3,
+    image: Lore,
+    alt: 'Lore',
+    link:
+      'https://www.primevideo.com/dp/amzn1.dv.gti.d2b33545-a298-2a96-482f-4a3d06660c6d?autoplay=0&ref_=atv_cf_strg_wb',
+  },
+  {
+    id: 4,
+    image: TWD,
+    alt: 'Fear The Walking Dead',
+    link:
+      'https://www.primevideo.com/dp/amzn1.dv.gti.87cbc2cd-d1b5-457a-9c14-fb81a601b279?autoplay=0&ref_=atv_cf_strg_wb',
+  },
   { id: 5, image: SAE, alt: 'Stan Against Evil', link: '' },
   { id: 6, image: TDD, alt: 'The Dream Door', link: '' },
   { id: 7, image: Scream, alt: 'Scream', link: '' },
