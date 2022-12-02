@@ -1,14 +1,26 @@
 // FILMES
-import Eli from './img/mini-1.jpg'
-import Fear1 from './img/mini-2.jpg'
-import Invocação from './img/mini-3.jpg'
-import Slender from './img/mini-4.jpg'
-import Blair from './img/mini-5.jpg'
-import Chucky from './img/mini-6.jpg'
-import Friday13 from './img/mini-7.jpg'
-import Poltergeist from './img/mini-8.jpg'
-import Halloween from './img/mini-9.jpg'
-import Pennywise from './img/mini-10.jpg'
+import Eli from './img/Filmes/'
+import Fear1 from './img/Filmes/mini-2.jpg'
+import Invocação from './img/Filmes/mini-3.jpg'
+import Slender from './img/Filmes/mini-4.jpg'
+import Blair from './img/Filmes/mini-5.jpg'
+import Chucky from './img/Filmes/mini-6.jpg'
+import Friday13 from './img/Filmes/mini-7.jpg'
+import Poltergeist from './img/Filmes/mini-8.jpg'
+import Halloween from './img/Filmes/mini-9.jpg'
+import Pennywise from './img/Filmes/mini-10.jpg'
+
+// SÉRIES
+import Slasher from './img/Series/mini-1.jpg'
+import ZNation from './img/Series/mini-2.jpg'
+import Lore from './img/Series/mini-3.jpg'
+import TWD from './img/Series/mini-4.jpg'
+import SAE from './img/Series/mini-5.jpg'
+import TDD from './img/Series/mini-6.jpg'
+import Scream from './img/Series/mini-7.jpg'
+import AHS from './img/Series/mini-8.jpg'
+import Dark from './img/Series/mini-9.jpg'
+import Supernatural from './img/Series/mini-10.jpg'
 
 export const filmes = [
   {
@@ -80,16 +92,16 @@ export const filmes = [
 ]
 
 export const series = [
-  { id: 1, image: '', alt: '', link: '' },
-  { id: 2, image: '', alt: '', link: '' },
-  { id: 3, image: '', alt: '', link: '' },
-  { id: 4, image: '', alt: '', link: '' },
-  { id: 5, image: '', alt: '', link: '' },
-  { id: 6, image: '', alt: '', link: '' },
-  { id: 7, image: '', alt: '', link: '' },
-  { id: 8, image: '', alt: '', link: '' },
-  { id: 9, image: '', alt: '', link: '' },
-  { id: 10, image: '', alt: '', link: '' },
+  { id: 1, image: Slasher, alt: 'Slasher', link: '' },
+  { id: 2, image: ZNation, alt: 'Z Nation', link: '' },
+  { id: 3, image: Lore, alt: 'Lore', link: '' },
+  { id: 4, image: TWD, alt: 'Fear The Walking Dead', link: '' },
+  { id: 5, image: SAE, alt: 'Stan Against Evil', link: '' },
+  { id: 6, image: TDD, alt: 'The Dream Door', link: '' },
+  { id: 7, image: Scream, alt: 'Scream', link: '' },
+  { id: 8, image: AHS, alt: 'American Horror Story', link: '' },
+  { id: 9, image: Dark, alt: 'Dark', link: '' },
+  { id: 10, image: Supernatural, alt: 'Supernatural', link: '' },
 ]
 
 export const animes = [
