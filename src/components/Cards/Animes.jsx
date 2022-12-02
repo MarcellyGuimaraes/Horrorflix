@@ -1,20 +1,20 @@
-import React from "react";
+import React from 'react'
 
 // Carrossel e estilos
-import styles from "../Style.module.css";
-import Carrosel from "../Carrosel";
+import styles from '../Style.module.css'
+import Carrosel from '../Carrosel'
 
 // imagens
-import Titan from "./img/mini-1.jpg";
-import Death from "./img/mini-2.jpg";
-import Jojo from "./img/mini-3.jpg";
-import Ghoul from "./img/mini-4.jpg";
-import Emma from "./img/mini-5.jpg";
-import Parasite from "./img/mini-6.jpg";
-import BloodC from "./img/mini-7.jpg";
-import Corpse from "./img/mini-8.jpg";
-import Tanjiro from "./img/mini-9.jpg";
-import Hell from "./img/mini-10.jpg";
+import Titan from './img/mini-1.jpg'
+import Death from './img/mini-2.jpg'
+import Jojo from './img/mini-3.jpg'
+import Ghoul from './img/mini-4.jpg'
+import Emma from './img/mini-5.jpg'
+import Parasite from './img/mini-6.jpg'
+import BloodC from './img/mini-7.jpg'
+import Corpse from './img/mini-8.jpg'
+import Tanjiro from './img/mini-9.jpg'
+import Hell from './img/mini-10.jpg'
 
 function Animes() {
   return (
@@ -142,7 +142,7 @@ function Animes() {
         </div>
       </Carrosel>
     </div>
-  );
+  )
 }
 
-export default Animes;
+export default Animes
