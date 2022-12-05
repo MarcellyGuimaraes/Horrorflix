@@ -251,16 +251,66 @@ export const animes = [
 ]
 
 export const creepypastas = [
-  { id: 1, image: Jeff, alt: 'Jeff The Killer', link: '' },
-  { id: 2, image: Slenderman, alt: 'Slenderman', link: '' },
-  { id: 3, image: Ticci, alt: 'Ticci Tobi', link: '' },
-  { id: 4, image: Ben, alt: 'Ben Drowned', link: '' },
-  { id: 5, image: Eyeless, alt: 'Eyless Jack', link: '' },
-  { id: 6, image: Sally, alt: 'Sally, A Suja', link: '' },
-  { id: 7, image: Jack, alt: 'Jack Risonho', link: '' },
-  { id: 8, image: Siren, alt: 'Siren Head', link: '' },
-  { id: 9, image: Jane, alt: 'Jane The Killer', link: '' },
-  { id: 10, image: Jill, alt: 'Jill Risonha', link: '' },
+  {
+    id: 1,
+    image: Jeff,
+    alt: 'Jeff The Killer',
+    link: 'https://www.youtube.com/watch?v=OKCl18mPnEI',
+  },
+  {
+    id: 2,
+    image: Slenderman,
+    alt: 'Slenderman',
+    link: 'https://www.youtube.com/watch?v=ginkQ1-FJvE',
+  },
+  {
+    id: 3,
+    image: Ticci,
+    alt: 'Ticci Tobi',
+    link: 'https://www.youtube.com/watch?v=IYOvFlG4WRw',
+  },
+  {
+    id: 4,
+    image: Ben,
+    alt: 'Ben Drowned',
+    link: 'https://www.youtube.com/watch?v=iqPvc5-QLkY',
+  },
+  {
+    id: 5,
+    image: Eyeless,
+    alt: 'Eyless Jack',
+    link: 'https://www.youtube.com/watch?v=C33mbDKwMYk',
+  },
+  {
+    id: 6,
+    image: Sally,
+    alt: 'Sally, A Suja',
+    link: 'https://www.youtube.com/watch?v=TwFiSNssEUM',
+  },
+  {
+    id: 7,
+    image: Jack,
+    alt: 'Jack Risonho',
+    link: 'https://www.youtube.com/watch?v=pu_097L3vAg',
+  },
+  {
+    id: 8,
+    image: Siren,
+    alt: 'Siren Head',
+    link: 'https://www.youtube.com/watch?v=22ehN9CCHck',
+  },
+  {
+    id: 9,
+    image: Jane,
+    alt: 'Jane The Killer',
+    link: 'https://www.youtube.com/watch?v=7Gx6talD2WA',
+  },
+  {
+    id: 10,
+    image: Jill,
+    alt: 'Jill Risonha',
+    link: 'https://www.youtube.com/watch?v=2g_PNoUBDX4',
+  },
 ]
 
 export const jogos = [
