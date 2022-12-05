@@ -34,6 +34,18 @@ import Jujutsu from './img/Animes/mini-8.jpg'
 import Tanjiro from './img/Animes/mini-9.jpg'
 import Hell from './img/Animes/mini-10.jpg'
 
+// CREEPYPASTAS
+import Jeff from './img/Creepypastas/mini-1.jpg'
+import Slenderman from './img/Creepypastas/mini-2.jpg'
+import Ticci from './img/Creepypastas/mini-3.jpg'
+import Ben from './img/Creepypastas/mini-4.jpg'
+import Eyeless from './img/Creepypastas/mini-5.jpg'
+import Sally from './img/Creepypastas/mini-6.jpg'
+import Jack from './img/Creepypastas/mini-7.jpg'
+import Siren from './img/Creepypastas/mini-8.jpg'
+import Jane from './img/Creepypastas/mini-9.jpg'
+import Jill from './img/Creepypastas/mini-10.jpg'
+
 export const filmes = [
   {
     id: 1,
@@ -239,16 +251,16 @@ export const animes = [
 ]
 
 export const creepypastas = [
-  { id: 1, image: '', alt: '', link: '' },
-  { id: 2, image: '', alt: '', link: '' },
-  { id: 3, image: '', alt: '', link: '' },
-  { id: 4, image: '', alt: '', link: '' },
-  { id: 5, image: '', alt: '', link: '' },
-  { id: 6, image: '', alt: '', link: '' },
-  { id: 7, image: '', alt: '', link: '' },
-  { id: 8, image: '', alt: '', link: '' },
-  { id: 9, image: '', alt: '', link: '' },
-  { id: 10, image: '', alt: '', link: '' },
+  { id: 1, image: Jeff, alt: 'Jeff The Killer', link: '' },
+  { id: 2, image: Slenderman, alt: 'Slenderman', link: '' },
+  { id: 3, image: Ticci, alt: 'Ticci Tobi', link: '' },
+  { id: 4, image: Ben, alt: 'Ben Drowned', link: '' },
+  { id: 5, image: Eyeless, alt: 'Eyless Jack', link: '' },
+  { id: 6, image: Sally, alt: 'Sally, A Suja', link: '' },
+  { id: 7, image: Jack, alt: 'Jack Risonho', link: '' },
+  { id: 8, image: Siren, alt: 'Siren Head', link: '' },
+  { id: 9, image: Jane, alt: 'Jane The Killer', link: '' },
+  { id: 10, image: Jill, alt: 'Jill Risonha', link: '' },
 ]
 
 export const jogos = [
