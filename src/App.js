@@ -18,7 +18,7 @@ function App() {
       <Series />
       <Animes />
       <Creepypastas />
-      {/* <Jogos /> */}
+      <Jogos />
 
       <Footer />
     </div>

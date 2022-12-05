@@ -46,6 +46,18 @@ import Siren from './img/Creepypastas/mini-8.jpg'
 import Jane from './img/Creepypastas/mini-9.jpg'
 import Jill from './img/Creepypastas/mini-10.jpg'
 
+// JOGOS
+import Silent from './img/Jogos/mini-1.jpg'
+import Resident from './img/Jogos/mini-2.jpg'
+import Until from './img/Jogos/mini-3.jpg'
+import Amnesia from './img/Jogos/mini-4.jpg'
+import FNAF from './img/Jogos/mini-5.jpg'
+import Phasmophobia from './img/Jogos/mini-6.jpg'
+import Outlast from './img/Jogos/mini-7.jpg'
+import Daylight from './img/Jogos/mini-8.jpg'
+import TLOU from './img/Jogos/mini-9.jpg'
+import Metro from './img/Jogos/mini-10.jpg'
+
 export const filmes = [
   {
     id: 1,
@@ -314,14 +326,64 @@ export const creepypastas = [
 ]
 
 export const jogos = [
-  { id: 1, image: '', alt: '', link: '' },
-  { id: 2, image: '', alt: '', link: '' },
-  { id: 3, image: '', alt: '', link: '' },
-  { id: 4, image: '', alt: '', link: '' },
-  { id: 5, image: '', alt: '', link: '' },
-  { id: 6, image: '', alt: '', link: '' },
-  { id: 7, image: '', alt: '', link: '' },
-  { id: 8, image: '', alt: '', link: '' },
-  { id: 9, image: '', alt: '', link: '' },
-  { id: 10, image: '', alt: '', link: '' },
+  {
+    id: 1,
+    image: Silent,
+    alt: 'Silent Hill 2',
+    link: 'https://www.playstation.com/pt-br/games/silent-hill-2/',
+  },
+  {
+    id: 2,
+    image: Resident,
+    alt: 'Resident Evil 7: Biohazard',
+    link: 'https://www.playstation.com/pt-br/games/resident-evil-7-biohazard/',
+  },
+  {
+    id: 3,
+    image: Until,
+    alt: 'Until Dawn',
+    link: 'https://www.playstation.com/pt-br/games/until-dawn/',
+  },
+  {
+    id: 4,
+    image: Amnesia,
+    alt: 'Amnesia',
+    link: 'https://www.playstation.com/pt-br/games/amnesia-rebirth/',
+  },
+  {
+    id: 5,
+    image: FNAF,
+    alt: 'Five Nights ar Freddy',
+    link: 'https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/',
+  },
+  {
+    id: 6,
+    image: Phasmophobia,
+    alt: 'Phasmophobia',
+    link: 'https://store.steampowered.com/agecheck/app/739630/',
+  },
+  {
+    id: 7,
+    image: Outlast,
+    alt: 'Outlast',
+    link: 'https://www.playstation.com/pt-br/games/outlast/',
+  },
+  {
+    id: 8,
+    image: Daylight,
+    alt: 'Dead by Daylight',
+    link: 'https://www.playstation.com/pt-br/games/dead-by-daylight/',
+  },
+  {
+    id: 9,
+    image: TLOU,
+    alt: 'The Last of Us',
+    link: 'https://www.playstation.com/pt-br/games/the-last-of-us-part-i/',
+  },
+  {
+    id: 10,
+    image: Metro,
+    alt: 'Metro Exodus',
+    link: 'https://www.playstation.com/pt-br/games/metro-exodus/',
+  },
 ]
