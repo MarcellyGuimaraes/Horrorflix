@@ -1,20 +1,14 @@
-import style from "./Footer.module.css";
-import github from "./git.png";
+import style from './Footer.module.css'
 
 function Footer() {
   return (
     <footer className={style.container}>
-      <p>Desenvolvido por: Marcelly Guimarães. ✨</p>
-      <img src={github} alt="github" className={style.logo} />
-      <a
-        href="https://github.com/MarcellyGuimaraes"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Meu Github
-      </a>
+      <p className={style.textFooter}>
+        Desenvolvido por:{' '}
+        <a href="https://github.com/MarcellyGuimaraes">Marcelly Guimarães</a>.
+      </p>
     </footer>
-  );
+  )
 }
 
-export default Footer;
+export default Footer
