@@ -25,7 +25,7 @@ import Supernatural from './img/Series/mini-10.jpg'
 // ANIMES
 import Titan from './img/Animes/mini-1.jpg'
 import Death from './img/Animes/mini-2.jpg'
-import Jojo from './img/Animes/mini-3.jpg'
+import Blue from './img/Animes/mini-3.jpg'
 import Ghoul from './img/Animes/mini-4.jpg'
 import Emma from './img/Animes/mini-5.jpg'
 import Parasite from './img/Animes/mini-6.jpg'
@@ -209,10 +209,9 @@ export const animes = [
   },
   {
     id: 3,
-    image: Jojo,
-    alt: 'Jojo',
-    link:
-      'https://www.crunchyroll.com/pt-br/series/GYP8DP1MY/jojos-bizarre-adventure',
+    image: Blue,
+    alt: 'Blue exorcist',
+    link: 'https://www.crunchyroll.com/pt-br/series/G649PJ0JY/blue-exorcist',
   },
   {
     id: 4,
